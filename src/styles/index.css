@@ -1,6 +1,6 @@
 .bigCounter{
     text-align: center;
-    background: black;
+    background: rgb(37, 20, 20);
 }
 .bigCounter div{
     display: inline-block;
